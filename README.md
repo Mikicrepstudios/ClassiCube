@@ -1,3 +1,8 @@
+# Mikicrep's smart quotes
+Dont use this. This is just me playing with classicube source code. Please, if you are going to play minecraft classic, go to [ClassiCube's official github repo](https://github.com/ClassiCube/ClassiCube)
+
+# --------------------
+
 ClassiCube is a custom Minecraft Classic compatible client written in C from scratch.<br>
 **It is not affiliated with (or supported by) Mojang AB, Minecraft, or Microsoft in any way.**
 
