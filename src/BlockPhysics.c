@@ -485,7 +485,7 @@ static cc_bool BlocksTNT(BlockID b) {
 		(Blocks.ExtendedCollide[b] == COLLIDE_SOLID && (Blocks.DigSounds[b] == SOUND_METAL || Blocks.DigSounds[b] == SOUND_STONE));
 }
 
-#define TNT_POWER 4
+#define TNT_POWER 16
 #define TNT_POWER_SQUARED (TNT_POWER * TNT_POWER)
 static void Physics_HandleTnt(int index, BlockID block) {
 	int x, y, z;

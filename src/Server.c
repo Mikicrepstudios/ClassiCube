@@ -181,6 +181,7 @@ static void SPConnection_AddPart(const cc_string* text) {
 }
 
 static void SPConnection_SendChat(const cc_string* text) {
+	// Fk this I SPENT 3 HOURS TRYING TO ADD STUFF TO CC STRING I HATE C C++ WAY BETTER AAAAAAAAAAAAAAA
 	cc_string left, part;
 	if (!text->length) return;
 
